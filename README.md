@@ -1,7 +1,7 @@
 ![alt text](https://patrickcreutzburg.de/assets/images/about-me/about-me_banner.jpg)
 
 ### P@/ri€k €reu/z&urg
-##### Professional Full Stack Software Engineer
+#### Professional Full Stack Software Engineer
 
 - 🔭 I’m currently working on my publication: [CP Massive Creative](https://medium.com/cp-massive-programming)
 - 📚 Recommended books: [Link](https://patrickcreutzburg.de/recommended-books) 
