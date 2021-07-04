@@ -21,7 +21,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Decorator | Cheat Sheet](https://itchimonji.medium.com/decorator-cheat-sheet-1ed5a3ffc8d3?source=rss-ff8233d2c1a2------2)
+- [Decorator | Cheat Sheet](https://medium.com/cp-massive-programming/decorator-cheat-sheet-1ed5a3ffc8d3?source=rss-ff8233d2c1a2------2)
 - [Facade | Cheat Sheet](https://medium.com/cp-massive-programming/facade-cheat-sheet-7ae790b07d77?source=rss-ff8233d2c1a2------2)
 - [How To Monitor a Distributed System with a NestJS Application](https://medium.com/cp-massive-programming/how-to-monitor-a-distributed-system-with-a-nestjs-application-edb86d170d4e?source=rss-ff8233d2c1a2------2)
 - [Bridge | Cheat Sheet](https://medium.com/cp-massive-programming/bridge-cheat-sheet-b30e6008b3c3?source=rss-ff8233d2c1a2------2)
