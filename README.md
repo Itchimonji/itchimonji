@@ -21,9 +21,9 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Strategy | Cheat Sheet](https://medium.com/cp-massive-programming/strategy-cheat-sheet-47706f39c2ad?source=rss-ff8233d2c1a2------2)
 - [Template Method | Cheat Sheet](https://medium.com/cp-massive-programming/template-method-cheat-sheet-baf8bf924e4d?source=rss-ff8233d2c1a2------2)
 - [Proxy | Cheat Sheet](https://medium.com/cp-massive-programming/proxy-cheat-sheet-13330d7750af?source=rss-ff8233d2c1a2------2)
 - [Flyweight | Cheat Sheet](https://medium.com/cp-massive-programming/flyweight-cheat-sheet-15b961e0e18a?source=rss-ff8233d2c1a2------2)
 - [Composite | Cheat Sheet](https://medium.com/cp-massive-programming/composite-cheat-sheet-6c463a11b3df?source=rss-ff8233d2c1a2------2)
-- [Decorator | Cheat Sheet](https://medium.com/cp-massive-programming/decorator-cheat-sheet-1ed5a3ffc8d3?source=rss-ff8233d2c1a2------2)
 <!-- BLOG-POST-LIST:END -->
