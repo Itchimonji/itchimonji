@@ -21,6 +21,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How I learned (and still learn) Site-Reliability-Engineering](https://medium.com/async-software/how-i-learned-and-still-learn-site-reliability-engineering-dd6ad32c4285)
 - [Gateway Pattern: Introduction on the bases of Kong Gateway](https://medium.com/cp-massive-programming/gateway-pattern-introduction-on-the-bases-of-kong-gateway-e788e8c5662f?source=rss-ff8233d2c1a2------2)
 - [Mediator | Cheat Sheet](https://medium.com/cp-massive-programming/mediator-cheat-sheet-840f7db56437?source=rss-ff8233d2c1a2------2)
 - [State | Cheat Sheet](https://medium.com/cp-massive-programming/state-cheat-sheet-a2e283708c5?source=rss-ff8233d2c1a2------2)
