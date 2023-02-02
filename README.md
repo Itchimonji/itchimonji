@@ -1,7 +1,7 @@
 ![alt text](https://patrick-eichler.com/assets/images/home/newsletter_banner.jpg)
 
 # P@/ri€k Ei€h/er
-## Professional Full Stack Software & DevOps Engineer
+## Professional Site Reliability Engineer (DevOps) & Full Stack Software Engineer
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=itchimonji.visitor-badge&left_color=red&right_color=green)
 ![Profile views](https://gpvc.arturio.dev/itchimonji) 
