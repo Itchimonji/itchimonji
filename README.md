@@ -1,10 +1,11 @@
-![alt text](https://patrick-eichler.com/assets/images/home/newsletter_banner.jpg)
+![alt text](https://images.squarespace-cdn.com/content/v1/685102e013d0423e70790873/2f10f35a-2cc1-4f25-bc67-7b7c3bd848d6/PXL_20250620_201439997.RAW-01.COVER-EDIT.jpg?format=1500w)
 
 # P@/ri€k Ei€h/er
-## Professional Site Reliability Engineer (DevOps) & Full Stack Software Engineer
+## Freelancer | Kubernetes Expert (Kubestronaut) | Google Associate Cloud Engineer
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=itchimonji.visitor-badge&left_color=red&right_color=green)
-![Profile views](https://gpvc.arturio.dev/itchimonji) 
+As a highly skilled IT professional with extensive certifications from the Linux Foundation and Kubernetes, including the prestigious Kubestronaut certification, I bring a wealth of knowledge and hands-on experience to every project. My expertise in Linux systems, container orchestration, and cloud-native environments allows me to design and implement innovative solutions that are both efficient and scalable. What sets me apart is my passion for continuous training and staying on top of emerging technologies, ensuring that I offer the latest, most effective solutions tailored to your specific needs. I am committed to understanding your unique challenges and delivering results that drive tangible business success. As a freelancer, I provide flexible, personalized, and cost-effective services that are designed to meet the specific demands of your organization. By working with me, you gain a dedicated partner who is focused on helping you solve complex problems and achieve your goals
+
+## Git Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itchimonji&count_private=true&show_icons=true&theme=dracula)
 
@@ -12,19 +13,17 @@
 
 ## About me
 
-- 🔭 I’m currently working on my publications: [CP Massive Creative](https://medium.com/cp-massive-programming) | [Async Software](https://medium.com/async-software)
-- 📚 Recommended books: [Link](https://patrickcreutzburg.de/recommended-books) 
-- 💬 Ask me about Object Composition, patterns and principles, development in TypeScript, DevOps and so on..
-- 📫 How to reach me: [My personal website](https://patrick-eichler.com/)
-- 🔗 Links to social media : [Links](https://patrickcreutzburg.de/links)
+- 🔭 I’m currently working on my publications: [YunaCloud Blog](https://blog.yunacloud.com/)
+- 📚 Website / How to reach me: [Website](https://yunacloud.com/about) 
+- 💬 Ask me about Object Kubernetes, GCP, SRE, DevOps and so on..
 
 ## Connect with me
 
-[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/patrick-creutzburg/)
+[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/patrick-eichler/)
 [<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/cp-massive-programming)
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/Itchimonji)
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/instagram-%23fe5341.svg?&style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/cpmassiveprogramming/)
-[<img align="left" alt="twitter" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />](https://patrick-eichler.com/)
+[<img align="left" alt="twitter" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />](https://yunacloud.com/)
 
 <br>
 <br>
@@ -32,11 +31,11 @@
 ## Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How I learned (and still learn) Site-Reliability-Engineering](https://medium.com/async-software/how-i-learned-and-still-learn-site-reliability-engineering-dd6ad32c4285)
-- [What Are the Challenges When Starting to Implement Tests](https://medium.com/async-software/what-are-the-challenges-when-starting-to-implement-tests-f0844ca62815)
-- [Gateway Pattern: Introduction on the bases of Kong Gateway](https://medium.com/cp-massive-programming/gateway-pattern-introduction-on-the-bases-of-kong-gateway-e788e8c5662f?source=rss-ff8233d2c1a2------2)
-- [Mediator | Cheat Sheet](https://medium.com/cp-massive-programming/mediator-cheat-sheet-840f7db56437?source=rss-ff8233d2c1a2------2)
-- [State | Cheat Sheet](https://medium.com/cp-massive-programming/state-cheat-sheet-a2e283708c5?source=rss-ff8233d2c1a2------2)
-- [Iterator | Cheat Sheet](https://medium.com/cp-massive-programming/iterator-cheat-sheet-51e8980db7a8?source=rss-ff8233d2c1a2------2)
-- [Chain of Responsibility| Cheat Sheet](https://medium.com/cp-massive-programming/chain-of-responsibility-cheat-sheet-c13cc946dd70?source=rss-ff8233d2c1a2------2)
+- [My Daily Routine As a Software Developer / Cloud Native Application Developer](https://blog.yunacloud.com/my-daily-routine-as-a-software-developer-cloud-native-application-developer-c345d77ec779)
+- [Golang — Automate Formatting and Linting via Pre-Commit](https://blog.yunacloud.com/golang-automate-formatting-and-linting-via-pre-commit-c43740065c2e)
+- [Kubernetes API Server Discovery](https://blog.yunacloud.com/kubernetes-api-server-discovery-ac3b358e878e)
+- [4 Ways to Create a Kubernetes Cluster for Local Use](https://blog.yunacloud.com/4-ways-to-create-a-kubernetes-cluster-for-local-use-cec7ad52664f)
+- [High-level Introduction: DevOps](https://blog.yunacloud.com/high-level-introduction-devops-27ddc5c5a4c1)
+- [How I learned (and still learn) Site-Reliability-Engineering](https://blog.yunacloud.com/how-i-learned-and-still-learn-site-reliability-engineering-dd6ad32c4285)
+
 <!-- BLOG-POST-LIST:END -->
