@@ -14,16 +14,16 @@ As a highly skilled IT professional with extensive certifications from the Linux
 ## About me
 
 - 🔭 I’m currently working on my publications: [YunaCloud Blog](https://blog.yunacloud.com/)
-- 📚 Website / How to reach me: [Website](https://yunacloud.com/about) 
+- 📚 Website / How to reach me: [Website](https://yunacloud.com) 
 - 💬 Ask me about Object Kubernetes, GCP, SRE, DevOps and so on..
 
 ## Connect with me
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/patrick-eichler/)
-[<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/cp-massive-programming)
+[<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://itchimonji.medium.com/)
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/Itchimonji)
-[<img align="left" alt="twitter" src="https://img.shields.io/badge/instagram-%23fe5341.svg?&style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/cpmassiveprogramming/)
-[<img align="left" alt="twitter" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />](https://yunacloud.com/)
+[<img align="left" alt="twitter" src="https://img.shields.io/badge/instagram-%23fe5341.svg?&style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/yunacloud_it/)
+[<img align="left" alt="twitter" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />](https://yunacloud.com/about)
 
 <br>
 <br>
