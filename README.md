@@ -6,7 +6,7 @@
 </a>
 
 # P@/ri€k Ei€h/er
-## Transforming Teams with Google Cloud & Kubernetes Expertise ☁️ | Helping Companies Master DevOps 🚀 | Freelance Consultant & IT Lecturer 🎓 | Speaker 🎙️
+## Freelancer | Transforming Teams with Google Cloud & Kubernetes Expertise ☁️ | Helping Companies Master DevOps 🚀 | Freelance Consultant 🎓 | Speaker 🎙️
 
 As a freelance Kubernetes Expert and certified Google Cloud Professional, I am a strategic partner for businesses seeking to transform complex technology into a measurable competitive advantage. My mission is to design and implement robust, secure, and highly automated cloud infrastructures that empower your teams to accelerate software development and bring innovations to market faster. As a Kubestronaut, a top-tier Kubernetes certification, I possess the deep, practical expertise required to build and scale cloud-native solutions, focusing on translating technical excellence into tangible business success.
 
