@@ -1,4 +1,9 @@
-![alt text](https://images.squarespace-cdn.com/content/v1/685102e013d0423e70790873/2f10f35a-2cc1-4f25-bc67-7b7c3bd848d6/PXL_20250620_201439997.RAW-01.COVER-EDIT.jpg?format=1500w)
+<a href="https://certdirectory.io/profile/patrick-eichler?utm_source=github&utm_medium=readme">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://certdirectory.io/badge/patrick-eichler.svg?style=card&theme=dark">
+    <img alt="Patrick Eichler on CertDirectory" src="https://certdirectory.io/badge/patrick-eichler.svg?style=card">
+  </picture>
+</a>
 
 # P@/ri€k Ei€h/er
 ## Transforming Teams with Google Cloud & Kubernetes Expertise ☁️ | Helping Companies Master DevOps 🚀 | Freelance Consultant & IT Lecturer 🎓 | Speaker 🎙️
